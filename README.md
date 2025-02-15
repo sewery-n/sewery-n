@@ -1,7 +1,7 @@
 # Hi, I`m Seweryn 👋
 
 🔹 **Full-stack Developer**  
-🔹 **Technologies:** JavaScript, Node.js, React, TypeScript, Python  
+🔹 **Technologies:** JavaScript, Node.js, React, TypeScript, Python, Java  
 🔹 **Location:** Lodz, Poland
 
 ## About Me
