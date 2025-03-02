@@ -9,7 +9,9 @@
 I'm a passionate developer with experience in both frontend and backend technologies. I love building scalable and efficient web applications. I'm always eager to learn and share my knowledge with others. Currently focused on open-source contributions and expanding my skills in web development.
 
 ### 🛠️ Current Projects
-- **[CWLBot](https://github.com/sewery-n/CWLBot)** – A Puppeteer-based automation bot for Margonem.  
+- **[CWLBot](https://github.com/sewery-n/CWLBot)** – A Puppeteer-based automation bot for Margonem.
+- **[Coogladamy](https://coogladamy.pl)** – A movie search engine, allowing users to search for films, view details, add reviews, making own favourite list and access streaming links or related information.
+
 
 ### 📬 Contact me
 
